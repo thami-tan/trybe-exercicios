@@ -1,38 +1,38 @@
 h1 {
-    font-size: 65px;
-    color: orange;
-    font-family: sans-serif;
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
 }
 
 ul {
-    background-color: rgb (255, 100, 400);
-    line-height: 30px;
-    font-style: italic;
-    text-align: center;
-    text-decoration: line-through;
+  background-color: rgb (255, 100, 400);
+  line-height: 30px;
+  font-style: italic;
+  text-align: center;
+  text-decoration: line-through;
 }
 
 .cor-fundo {
-    background-color: blueviolet;
+  background-color: blueviolet;
 }
 
 p {
-    font-weight: 600;
-    font-size: 3em;
+  font-weight: 600;
+  font-size: 3em;
 }
 
 body {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 #yellow {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 #red {
-    background-color: red;
+  background-color: red;
 }
 
 #brown {
-    background-color: brown;
+  background-color: brown;
 }
